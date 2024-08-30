@@ -1,0 +1,7 @@
+echo "# Calculadora-did-tica" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gabrielfferraz/Calculadora-did-tica.git
+git push -u origin main
